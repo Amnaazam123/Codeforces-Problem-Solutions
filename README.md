@@ -1,2 +1,2 @@
-# problem-solving
-DSA competitive problem solving
+# Problem Solving
+### HAPPY CODING 😁
